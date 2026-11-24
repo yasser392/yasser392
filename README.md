@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm BECHIRI Yasser</h1>
 <h3 align="center">AI & Data Science Student | Machine Learning & Deep Learning | Graph Neural Networks</h3>
 
-- 🎓 Final-year **Artificial Intelligence & Data Science** student at **ESI Sidi Bel Abbès**
+-  Final-year **Artificial Intelligence & Data Science** student at **ESI Sidi Bel Abbès**
 
-- 🔭 I’m currently working on **a Multi-Agent GraphRAG system for complex multi-hop reasoning**
+-  I’m currently working on **a Multi-Agent GraphRAG system for complex multi-hop reasoning**
 
-- 🌱 I’m currently exploring **Graph Neural Networks, Vision Transformers, LLMs & Medical AI**
+-  I’m currently exploring **Graph Neural Networks, Vision Transformers, LLMs & Medical AI**
 
-- 💼 **Open to internship opportunities**
+- **Open to internship opportunities**
 
-- 📫 How to reach me **[ya.bechiri@esi-sba.dz](mailto:ya.bechiri@esi-sba.dz)**
+- How to reach me **[ya.bechiri@esi-sba.dz](mailto:ya.bechiri@esi-sba.dz)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,12 +20,12 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-- 🫀 **Edge-Aware ConvRGNN for ECG Classification** — macro AUC **0.9536** on CPSC-2018 and **0.9130** on PTB-XL
-- 🧠 **Multi-Agent GraphRAG** — multi-hop question answering by reasoning over a knowledge graph
-- 🏭 **[MAE-Based Industrial Defect Detection](https://github.com/yasser392/mae-defect-detection)** — self-supervised MAE-ViT pipeline
-- 🩺 **Brain Tumor Segmentation** — end-to-end deep learning segmentation of medical scans
-- 🕵️ **Fraud Detection with GNNs** — flags suspicious activity using relational structure
-- 🏅 **[Paris 2024 Olympics Dashboard](https://github.com/yasser392/Paris-2024-Olympic-Games-Dashboard)** — interactive analytics dashboard
+-  **Edge-Aware ConvRGNN for ECG Classification** — macro AUC **0.9536** on CPSC-2018 and **0.9130** on PTB-XL
+-  **Multi-Agent GraphRAG** — multi-hop question answering by reasoning over a knowledge graph
+-  **[MAE-Based Industrial Defect Detection](https://github.com/yasser392/mae-defect-detection)** — self-supervised MAE-ViT pipeline
+-  **Brain Tumor Segmentation** — end-to-end deep learning segmentation of medical scans
+-  **Fraud Detection with GNNs** — flags suspicious activity using relational structure
+   **[Paris 2024 Olympics Dashboard](https://github.com/yasser392/Paris-2024-Olympic-Games-Dashboard)** — interactive analytics dashboard
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
